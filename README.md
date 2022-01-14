@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm LaTrelle</h2>
-<h3 align="center">A USA based Front and Backend developer</h3>
+<h2 >Hi 👋, I'm LaTrelle</h2>
+<h3 >A USA based Front and Backend developer</h3>
 
 - 👀 I am a web, application and database developer with 10+ years of expereinece in the IT arena
 - 🌱 I’m currently working on various web3 related projects including, but not limited to Defi / NFT's / DAO's / Moralis and more...
